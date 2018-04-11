@@ -1,5 +1,5 @@
 {
-  "name": "fast-safe-stringify",
+  "name": "@stoplight/fast-safe-stringify",
   "version": "2.0.3",
   "description": "Safely and quickly serialize JavaScript objects",
   "keywords": [
